@@ -1,0 +1,11 @@
+¿Que ocurre si los factores de escala son diferentes entre sí?
+R// puede alterar las escalas de las coordenadas en decimales
+
+¿Y si algun factor de escala es cero?
+R// demuestra que no hay valores nulos
+
+¿Que ocurre si uno o varios factores de escala son negativos? ´
+R//es un error de programa 
+
+¿Y si el factor de escala esta entre cero y uno?
+R// los puntos se moveran mas lento o el programa lo lleva al entero siguiente
